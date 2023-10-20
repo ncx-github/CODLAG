@@ -1,12 +1,12 @@
 """
 Auther: ncx@stu.ouc.edu.cn
-Last updated: 2023/10/12
+Last Revision: 2023/10/20
 Requirements:
     python 3.9.16
 """
 
 
-# 求去掉最大值和最小值的平均
+# Find the average after removing the maximum and minimum values
 def average_without_extremes(arr):
 
     min_val = min(arr)
